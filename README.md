@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me I'm Logan, a CS student at UNB and a scripter specializing in Tycoon mechanics and Data Management.
 
-<!--
-**logank280/logank280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I treat Roblox development like software engineering. I write clean, modular Luau code and use Rojo for external file management. My goal is to create systems that are not just functional, but performant and secure.
 
-Here are some ideas to get you started:
+My Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Luau, C, Java
+
+Roblox Tools: ProfileService, Knit, Rojo
+
+Version Control: Git/GitHub
+
+## Code Repositories To keep my workflows organized, I separate my game development from my standard software engineering work. You can view my actual code here:
+
+🎮 Roblox & Game Dev: github.com/logank280gamedev 💻 C, Java & General CS: github.com/logank280projects
