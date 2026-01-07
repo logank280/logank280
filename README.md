@@ -1,4 +1,4 @@
-## About Me 
+## About Me
 
 I'm Logan, a CS student at UNB and a scripter specializing in Tycoon mechanics and Data Management.
 
