@@ -16,4 +16,4 @@ Version Control: Git/GitHub
 
 💻 C, Java & General CS: github.com/logank280projects
 
-🎮 **Roblox & Game Dev:** [github.com/logank280gamedev](https://github.com/logank280gamedev)
+🎮 **Roblox & Game Dev:** [github.com/logank280gamedev](https://github.com/logank280/logank280gamedev)
