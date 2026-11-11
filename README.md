@@ -11,7 +11,7 @@ Third-year Computer Science student at the **University of New Brunswick** (grad
 | **Steal a Supercar!** | 3D multiplayer car game: driving, races, police chase AI and ragdoll physics (raycasts, 3D transforms), backed by 30+ server services for saves, economy and analytics. **Sold to a development firm.** |
 | **Depot Dash** | Puzzle game with collision detection for rotated vehicles (separating axis theorem), a seeded generator that always makes solvable levels, and an in-Studio level editor. |
 | **Color the Sports Team** | 1v1 multiplayer game with a Python asset pipeline (429 logo layers uploaded through Roblox Open Cloud) and colour-accuracy grading using CIEDE2000. |
-| **[EXTRA HARD OBBY](https://www.roblox.com/games/4986072211/EXTRA-HARD-OBBY)** | Level builder for an obstacle course game with **3.5M+ visits** and **11K+ favourites**. |
+| **[EXTRA HARD OBBY](https://www.roblox.com/games/4986072211/EXTRA-HARD-OBBY)** | Builder and scripter for an obstacle course game with **3.5M+ visits** and **11K+ favourites**. |
 
 ## 🛠️ Tech stack
 
